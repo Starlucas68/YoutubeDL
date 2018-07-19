@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YoutubeDL</string>
+    <string name="permissionTextGranted">Permission Granted</string>
+    <string name="permissionTextDenied">Permission Denied</string>
+    <string name="downloadingText">Converting Video…</string>
+    <string name="welcomeText">Welcome in YoutubeDL, click \'Share\' on Youtube to download a song</string>
+    <string name="intentDownloadSong">Download Song</string>
+    <string name="intentDownloadVideo">Download Video</string>
+</resources>
