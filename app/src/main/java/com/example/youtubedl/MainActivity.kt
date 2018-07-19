@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.support.v4.app.ActivityCompat
 import android.support.v4.content.ContextCompat
 import android.widget.TextView
-import com.google.android.gms.ads.MobileAds;
 
 
 class MainActivity : AppCompatActivity() {
@@ -18,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setupPermissions()
-        MobileAds.initialize(this, "ca-app-pub-9970155051487841~9543640699")
     }
 
     private fun setupPermissions(){
