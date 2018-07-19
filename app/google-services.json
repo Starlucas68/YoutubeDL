@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "451473331747",
+    "firebase_url": "https://deft-duality-164918.firebaseio.com",
+    "project_id": "deft-duality-164918",
+    "storage_bucket": "deft-duality-164918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451473331747:android:fe9bf1b8861c0a61",
+        "android_client_info": {
+          "package_name": "com.example.youtubedl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451473331747-bd3mnn60tpvtclnvl0m21c2i4cb436m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITF2RUcybspxHxnpZozG06lbE9TN3dW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
