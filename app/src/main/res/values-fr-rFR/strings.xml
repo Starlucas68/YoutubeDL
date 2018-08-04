@@ -7,4 +7,5 @@
     <string name="welcomeText">Bienvenue dans YoutubeDL, cliquez sur \'Partager\' dans l\'application Youtube pour télécharger une musique</string>
     <string name="intentDownloadSong">Télécharger la musique</string>
     <string name="intentDownloadVideo">Télécharger la vidé</string>
+    <string name="dialogMessage">Voulez-vous télécharger l\'audio ou la vidéo?</string>
 </resources>

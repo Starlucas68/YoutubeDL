@@ -6,4 +6,5 @@
     <string name="welcomeText">Welcome in YoutubeDL, click \'Share\' on Youtube to download a song</string>
     <string name="intentDownloadSong">Download Song</string>
     <string name="intentDownloadVideo">Download Video</string>
+    <string name="dialogMessage">Do you want to download the audio or the video?</string>
 </resources>
