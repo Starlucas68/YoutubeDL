@@ -8,4 +8,8 @@
     <string name="intentDownloadSong">Télécharger la musique</string>
     <string name="intentDownloadVideo">Télécharger la vidé</string>
     <string name="dialogMessage">Voulez-vous télécharger l\'audio ou la vidéo?</string>
+    <string name="newUpdate">Nouvelle mise à jour disponible</string>
+    <string name="update">Mettre à jour</string>
+    <string name="skipVersion">Ignorer cette version</string>
+    <string name="updateDialogMessage">"Version : "</string>
 </resources>
